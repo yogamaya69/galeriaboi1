@@ -175,7 +175,8 @@
             
             <div class="w-full lg:w-1/2 reveal-up">
                 <div class="aspect-square w-full bg-gray-100 overflow-hidden relative rounded-sm">
-                    <img src="./2galeria.webp" alt="Espaço da Galeria Boi" class="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-700">
+                    <!-- Removido o filtro grayscale desta imagem -->
+                    <img src="./2galeria.webp" alt="Espaço da Galeria Boi" class="w-full h-full object-cover transition-all duration-700">
                 </div>
             </div>
 
@@ -220,7 +221,7 @@
             </div>
 
             <div class="w-full lg:w-1/2 reveal-up">
-                <!-- Removido o 'mx-auto' para forçar o alinhamento perfeito à esquerda com o texto -->
+                <!-- Mantido o alinhamento perfeito à esquerda com o texto e o filtro grayscale aqui -->
                 <div class="aspect-[3/4] w-full max-w-[240px] md:max-w-[280px] lg:ml-auto bg-gray-200 overflow-hidden relative rounded-sm shadow-sm">
                     <img src="./carlos.webp" alt="Retrato de Carlos Mélo" class="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-700">
                 </div>
@@ -354,4 +355,3 @@
     </script>
 </body>
 </html>
-```
