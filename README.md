@@ -222,7 +222,7 @@
             <div class="w-full lg:w-1/2 reveal-up">
                 <!-- Removido o 'mx-auto' para forçar o alinhamento perfeito à esquerda com o texto -->
                 <div class="aspect-[3/4] w-full max-w-[240px] md:max-w-[280px] lg:ml-auto bg-gray-200 overflow-hidden relative rounded-sm shadow-sm">
-                    <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=800" alt="Retrato de Carlos Mélo" class="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-700">
+                    <img src="./carlos.webp" alt="Retrato de Carlos Mélo" class="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-700">
                 </div>
             </div>
 
