@@ -175,7 +175,7 @@
             
             <div class="w-full lg:w-1/2 reveal-up">
                 <div class="aspect-square w-full bg-gray-100 overflow-hidden relative rounded-sm">
-                    <img src="https://images.unsplash.com/photo-1541888046830-22c60e359a35?auto=format&fit=crop&q=80&w=1000" alt="Espaço da Galeria Boi" class="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-700">
+                    <img src="./2galeria.webp" alt="Espaço da Galeria Boi" class="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-700">
                 </div>
             </div>
 
